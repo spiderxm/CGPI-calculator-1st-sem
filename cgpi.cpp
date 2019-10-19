@@ -2,7 +2,7 @@
 int main()
 {
 
-	 int e,i;
+	int e,i;
 	float x,y;
 	y=0;
 	x=0;
